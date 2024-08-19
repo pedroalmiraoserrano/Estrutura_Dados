@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\bin\Debug\net8.0\projetoestruturas.exe
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\bin\Debug\net8.0\projetoestruturas.deps.json
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\bin\Debug\net8.0\projetoestruturas.runtimeconfig.json
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\bin\Debug\net8.0\projetoestruturas.dll
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\bin\Debug\net8.0\projetoestruturas.pdb
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\projetoestruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\projetoestruturas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\projetoestruturas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\projetoestruturas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\projetoestruturas.dll
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\refint\projetoestruturas.dll
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\projetoestruturas.pdb
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\projetoestruturas.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\projetoestruturas\projetoestruturas\obj\Debug\net8.0\ref\projetoestruturas.dll
